@@ -1,16 +1,6 @@
 # f_simple_shared_prefs
 
-A new Flutter project.
 
-## Getting Started
+![image](https://github.com/augustosalazar/f_simple_shared_prefs/assets/4458129/770e10b1-833d-4d4e-b8b4-64e7783108cd)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/augustosalazar/f_simple_shared_prefs/assets/4458129/69ed48b3-214b-4493-bafb-d670816c7994)
